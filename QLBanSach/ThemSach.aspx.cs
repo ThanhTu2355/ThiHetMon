@@ -38,6 +38,7 @@ namespace QLBanSach
                     Hinh = hinh,
                     KhuyenMai = khuyenmai,
                     NgayCapNhat = ngaycapnhat
+
                 };
 
                 sachDAO.Insert(sach);
